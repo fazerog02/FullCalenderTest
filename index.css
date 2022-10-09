@@ -5,3 +5,23 @@ body {
 #calendar {
   height: 100vh;
 }
+
+.red {
+  color: "#ffffff";
+  background-color: #ff0000;
+}
+
+.blue {
+  color: "#ffffff";
+  background-color: #0000ff;
+}
+
+.green {
+  color: "#ffffff";
+  background-color: #00ff00;
+}
+
+.black {
+  color: "#ffffff";
+  background-color: #000000;
+}
